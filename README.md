@@ -37,7 +37,7 @@ The final output is rendered in a professional **Streamlit dashboard** that lets
 ## 📊 Live Dashboard
 
 Interact with real-time MRR forecasts and KPIs:
-👉 [Click to Launch Dashboard](https://your-username.streamlit.app/)
+👉 [Click to Launch Dashboard](https://swaliher.streamlit.app/)
 
 Features:
 - Actual vs. Forecasted MRR trends
@@ -70,7 +70,9 @@ streamlit run app.py
 ---
 
 ## 📈 Forecast Preview
-![Forecast Plot](https://user-images.githubusercontent.com/your-account/mrr-plot-preview.png)
+
+![Forecast Preview](preview.png)
+
 
 ---
 
@@ -93,11 +95,11 @@ streamlit run app.py
 ---
 
 ## 👤 Author
-**[Your Name]**  
+**[Muhammed Swalih K T]**  
 _Data Science | Financial Modeling | ML Forecasting_
 
-📫 Connect: [LinkedIn](https://linkedin.com/in/your-profile)  
-🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+📫 Connect: [LinkedIn](https://www.linkedin.com/in/muhammed-swalih-kt/)  
+🌐 Portfolio: [your-portfolio.com](https://github.com/Swaliher)
 
 ---
 
