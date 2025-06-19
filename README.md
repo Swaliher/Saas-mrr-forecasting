@@ -37,7 +37,7 @@ The final output is rendered in a professional **Streamlit dashboard** that lets
 ## 📊 Live Dashboard
 
 Interact with real-time MRR forecasts and KPIs:
-👉 [Click to Launch Dashboard](https://swaliher.streamlit.app/)
+👉 [Click to Launch Dashboard](https://saas-mrr-forecasting-vodpkrpykumg3r6qkr7cyi.streamlit.app)
 
 Features:
 - Actual vs. Forecasted MRR trends
@@ -61,7 +61,7 @@ Features:
 
 ## 🔧 How to Run Locally
 ```bash
-git clone https://github.com/YOUR_USERNAME/saas-mrr-forecasting.git
+git clone https://github.com/swaliher/saas-mrr-forecasting.git
 cd saas-mrr-forecasting
 pip install -r requirements.txt
 streamlit run app.py
@@ -95,11 +95,11 @@ streamlit run app.py
 ---
 
 ## 👤 Author
-**[Muhammed Swalih K T]**  
+**Muhammed Swalih K T**  
 _Data Science | Financial Modeling | ML Forecasting_
 
 📫 Connect: [LinkedIn](https://www.linkedin.com/in/muhammed-swalih-kt/)  
-🌐 Portfolio: [your-portfolio.com](https://github.com/Swaliher)
+🌐 Portfolio: My portfolio(https://github.com/Swaliher)
 
 ---
 
