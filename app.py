@@ -55,4 +55,4 @@ st.dataframe(summary.style.format({"Actual_MRR": "${:,.0f}", "Hybrid_Predicted_M
 
 # Footer
 st.markdown("---")
-st.markdown("© 2025 • Built by [Your Name] | [GitHub](https://github.com/YOUR_USERNAME/saas-mrr-forecasting)")
+st.markdown("© 2025 • Built by Muhammed Swalih | [GitHub](https://github.com/swaliher/saas-mrr-forecasting)")
